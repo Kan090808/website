@@ -1,0 +1,1116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZLotus\n"
+"POT-Creation-Date: 2018-08-09 16:10+0700\n"
+"PO-Revision-Date: 2018-08-09 16:12+0700\n"
+"Last-Translator: \n"
+"Language-Team: ZThemes Studio\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .\n"
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: 404.php:21 content-none.php:18
+msgid ""
+"It seems we cannot find what you are looking for. Perhaps searching can help."
+msgstr ""
+
+#: author.php:7
+msgid "Posts By"
+msgstr ""
+
+#: category.php:7 tag.php:7
+msgid "Explore"
+msgstr ""
+
+#: category.php:8 search.php:8 tag.php:8
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:827 class-tgm-plugin-activation.php:2533
+#: class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: comments.php:6
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:6
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:6
+msgid "Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Name"
+msgstr ""
+
+#: comments.php:33
+msgid "Email"
+msgstr ""
+
+#: comments.php:36
+msgid "Website"
+msgstr ""
+
+#: comments.php:44
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:45
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:46
+msgid "Post Comment"
+msgstr ""
+
+#: content-none.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-page.php:28 content.php:128
+msgid "by"
+msgstr ""
+
+#: content.php:123
+msgid "Keep Reading"
+msgstr ""
+
+#: functions.php:18
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:94
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:100
+msgid "Widgets here will appear vertically to the right of your content."
+msgstr ""
+
+#: functions.php:103
+msgid "Instagram Header"
+msgstr ""
+
+#: functions.php:109 functions.php:127
+msgid ""
+"Use the \"Instagram\" widget here. IMPORTANT: For best result set number of "
+"photos to 8."
+msgstr ""
+
+#: functions.php:112
+msgid "Widget Area under Featured Area"
+msgstr ""
+
+#: functions.php:118
+msgid "Intended for newsletter widget or banner ads"
+msgstr ""
+
+#: functions.php:121
+msgid "Instagram Footer"
+msgstr ""
+
+#: functions.php:167
+msgid "Reply"
+msgstr ""
+
+#: functions.php:168
+msgid "Edit"
+msgstr ""
+
+#: functions.php:171
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:173
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: functions.php:265
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:271
+msgid "Widgets here will appear on your WooCommerce shop and product pages."
+msgstr ""
+
+#: functions/customizer_colors.php:7 functions/customizer_colors.php:1699
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/customizer_colors.php:8
+msgid "Add your custom CSS which will overwrite the theme CSS"
+msgstr ""
+
+#: functions/customizer_colors.php:16
+msgid "ZLOTUS: Color and Style Settings"
+msgstr ""
+
+#: functions/customizer_colors.php:20
+msgid "Top Bar Colors"
+msgstr ""
+
+#: functions/customizer_colors.php:27
+msgid "Mobile Menu Colors"
+msgstr ""
+
+#: functions/customizer_colors.php:34
+msgid "Header Colors"
+msgstr ""
+
+#: functions/customizer_colors.php:41
+msgid "Featured Area Colors"
+msgstr ""
+
+#: functions/customizer_colors.php:48
+msgid "Post/Page Colors"
+msgstr ""
+
+#: functions/customizer_colors.php:55
+msgid "Sidebar Colors"
+msgstr ""
+
+#: functions/customizer_colors.php:62
+msgid "Footer Colors"
+msgstr ""
+
+#: functions/customizer_colors.php:68
+msgid "Newsletter Colors"
+msgstr ""
+
+#: functions/customizer_colors.php:74
+msgid "MISC Colors"
+msgstr ""
+
+#: functions/customizer_colors.php:685
+msgid "Top Bar Border Color"
+msgstr ""
+
+#: functions/customizer_colors.php:697
+msgid "Top Bar BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:710
+msgid "Menu Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:722
+msgid "Menu Text Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:734
+msgid "Menu Dropdown Arrow Color"
+msgstr ""
+
+#: functions/customizer_colors.php:747
+msgid "Menu Dropdown BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:759
+msgid "Menu Dropdown Border Color"
+msgstr ""
+
+#: functions/customizer_colors.php:771
+msgid "Menu Dropdown Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:783
+msgid "Menu Dropdown Text Hover BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:795
+msgid "Menu Dropdown Text Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:808
+msgid "Top Bar Social Icon Color"
+msgstr ""
+
+#: functions/customizer_colors.php:820
+msgid "Top Bar Social Icon Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:832
+msgid "Top Bar Search Icon Color"
+msgstr ""
+
+#: functions/customizer_colors.php:844
+msgid "Top Bar Search Icon Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:856
+msgid "Top Bar Search Input Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:870
+msgid "Show Menu Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:882
+msgid "Show Menu Text Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:894
+msgid "Mobile Menu Toggle Icon Color"
+msgstr ""
+
+#: functions/customizer_colors.php:907
+msgid "Mobile Menu Dropdown BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:919
+msgid "Mobile Menu Dropdown Border Color"
+msgstr ""
+
+#: functions/customizer_colors.php:931
+msgid "Mobile Menu Dropdown Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:943
+msgid "Mobile Menu Dropdown Text Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:955
+msgid "Mobile Menu Dropdown Text BG Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:969
+msgid "Header BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:981
+msgid "Background Image"
+msgstr ""
+
+#: functions/customizer_colors.php:993
+msgid "Background Repeat"
+msgstr ""
+
+#: functions/customizer_colors.php:999
+msgid "Repeat"
+msgstr ""
+
+#: functions/customizer_colors.php:1000
+msgid "No Repeat"
+msgstr ""
+
+#: functions/customizer_colors.php:1001
+msgid "Repeat Y"
+msgstr ""
+
+#: functions/customizer_colors.php:1002
+msgid "Repeat X"
+msgstr ""
+
+#: functions/customizer_colors.php:1012
+msgid "Background Size"
+msgstr ""
+
+#: functions/customizer_colors.php:1018
+msgid "Auto"
+msgstr ""
+
+#: functions/customizer_colors.php:1019
+msgid "Cover"
+msgstr ""
+
+#: functions/customizer_colors.php:1020
+msgid "Contain"
+msgstr ""
+
+#: functions/customizer_colors.php:1030
+msgid "Background Position"
+msgstr ""
+
+#: functions/customizer_colors.php:1036
+msgid "Center Center"
+msgstr ""
+
+#: functions/customizer_colors.php:1037
+msgid "Center Top"
+msgstr ""
+
+#: functions/customizer_colors.php:1038
+msgid "Center Bottom"
+msgstr ""
+
+#: functions/customizer_colors.php:1039
+msgid "Right Center"
+msgstr ""
+
+#: functions/customizer_colors.php:1040
+msgid "Right Top"
+msgstr ""
+
+#: functions/customizer_colors.php:1041
+msgid "Right Bottom"
+msgstr ""
+
+#: functions/customizer_colors.php:1042
+msgid "Left Center"
+msgstr ""
+
+#: functions/customizer_colors.php:1043
+msgid "Left Top"
+msgstr ""
+
+#: functions/customizer_colors.php:1044
+msgid "Left Bottom"
+msgstr ""
+
+#: functions/customizer_colors.php:1054
+msgid "Background Attachment"
+msgstr ""
+
+#: functions/customizer_colors.php:1060
+msgid "Scroll"
+msgstr ""
+
+#: functions/customizer_colors.php:1061
+msgid "Fixed"
+msgstr ""
+
+#: functions/customizer_colors.php:1073
+msgid "Featured Area Post Title Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1085
+msgid "Featured Area Post Category Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1099
+msgid "Post/Page Title Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1111
+msgid "Post Category Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1123
+msgid "Post Date Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1135
+msgid "Post/Page Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1147
+msgid "Post/Page Headings (H1-H6) Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1159
+msgid "Continue Reading Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1171
+msgid "Continue Reading Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1183
+msgid "Tag BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1195
+msgid "Tag Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1207
+msgid "Tag BG Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1219
+msgid "Tag Text Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1231
+msgid "Post/Page Share Icon Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1243
+msgid "Post/Page Share Icon Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1255
+msgid "Post/Page Comment Link Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1267
+msgid "Post/Page Comment Link Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1279
+msgid "Post/Page Author Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1291
+msgid "Post/Page Author Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1303
+msgid "Post/Page Blockquote Border Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1315
+msgid "Post/Page Blockquote Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1328
+msgid "Comment Button BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1340
+msgid "Comment Button Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1352
+msgid "Comment Button BG Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1364
+msgid "Comment Button Text Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1378
+msgid "Sidebar Widget Title Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1390
+msgid "Sidebar Social Widget Icon Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1402
+msgid "Sidebar Social Widget Icon Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1414
+msgid "Sidebar Widget Categories Items BG Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1426
+msgid "Sidebar Widget Categories Items Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1440
+msgid "Footer BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1452
+msgid "Footer Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1464
+msgid "Footer Bottom Border Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1479
+msgid "Newsletter BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1491
+msgid "Newsletter Title Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1503
+msgid "Newsletter Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1515
+msgid "Newsletter Input BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1527
+msgid "Newsletter Input Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1539
+msgid "Newsletter Submit BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1551
+msgid "Newsletter Submit Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1563
+msgid "Newsletter Submit BG Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1575
+msgid "Newsletter Submit Text Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1589
+msgid "Accent Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1601
+msgid "Pagination BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1613
+msgid "Pagination Text Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1625
+msgid "Pagination BG Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1637
+msgid "Pagination Text Hover Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1649
+msgid "Category/Archive Box BG Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1661
+msgid "Category/Archive Box Border Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1673
+msgid "Category/Archive Box Title Color"
+msgstr ""
+
+#: functions/customizer_colors.php:1685
+msgid "Category/Archive Box Sub-Title Color"
+msgstr ""
+
+#: functions/customizer_featured.php:6
+msgid "Featured Area Settings"
+msgstr ""
+
+#: functions/customizer_featured.php:46
+msgid "Enable Featured Area"
+msgstr ""
+
+#: functions/customizer_featured.php:59
+msgid "Select Featured Category"
+msgstr ""
+
+#: functions/customizer_featured.php:72
+msgid "Select featured post/page IDs"
+msgstr ""
+
+#: functions/customizer_featured.php:86
+msgid "Hide Categories"
+msgstr ""
+
+#: functions/customizer_footer.php:6
+msgid "Footer Settings"
+msgstr ""
+
+#: functions/customizer_footer.php:15
+msgid "(C) COPYRIGHT 2017 - ALL RIGHTS RESERVED"
+msgstr ""
+
+#: functions/customizer_footer.php:22
+msgid "Design by <a href=\"https://zthemes.net/\">ZThemes Studio</a>"
+msgstr ""
+
+#: functions/customizer_footer.php:40
+msgid "Footer Text Left"
+msgstr ""
+
+#: functions/customizer_footer.php:53
+msgid "Footer Text Right"
+msgstr ""
+
+#: functions/customizer_footer.php:67
+msgid "Hide Footer Social Links"
+msgstr ""
+
+#: functions/customizer_general.php:6
+msgid "General Settings"
+msgstr ""
+
+#: functions/customizer_general.php:66
+msgid "Disable Responsive"
+msgstr ""
+
+#: functions/customizer_general.php:80
+msgid "Homepage Layout"
+msgstr ""
+
+#: functions/customizer_general.php:86 functions/customizer_general.php:107
+msgid "Full Post Layout"
+msgstr ""
+
+#: functions/customizer_general.php:87 functions/customizer_general.php:108
+msgid "Grid Layout"
+msgstr ""
+
+#: functions/customizer_general.php:88 functions/customizer_general.php:109
+msgid "1 Full then Grid"
+msgstr ""
+
+#: functions/customizer_general.php:89 functions/customizer_general.php:110
+msgid "List Layout"
+msgstr ""
+
+#: functions/customizer_general.php:90 functions/customizer_general.php:111
+msgid "1 Full then List"
+msgstr ""
+
+#: functions/customizer_general.php:101
+msgid "Archive Layout"
+msgstr ""
+
+#: functions/customizer_general.php:122
+msgid "Disable Sidebar on Homepage"
+msgstr ""
+
+#: functions/customizer_general.php:136
+msgid "Disable Sidebar on Archive Pages"
+msgstr ""
+
+#: functions/customizer_general.php:150
+msgid "Homepage/Archive Post Summary Type"
+msgstr ""
+
+#: functions/customizer_general.php:156
+msgid "Use Excerpt"
+msgstr ""
+
+#: functions/customizer_general.php:157
+msgid "Use Read More Tag"
+msgstr ""
+
+#: functions/customizer_header.php:6
+msgid "Header & Logo Settings"
+msgstr ""
+
+#: functions/customizer_header.php:54
+msgid "Upload Logo"
+msgstr ""
+
+#: functions/customizer_header.php:67
+msgid "Header Logo Padding Top"
+msgstr ""
+
+#: functions/customizer_header.php:80
+msgid "Header Logo Padding Bottom"
+msgstr ""
+
+#: functions/customizer_header.php:94
+msgid "Hide Social Icons"
+msgstr ""
+
+#: functions/customizer_header.php:107
+msgid "Hide Search Icon"
+msgstr ""
+
+#: functions/customizer_page.php:6
+msgid "Page Settings"
+msgstr ""
+
+#: functions/customizer_page.php:40
+msgid "Hide Page Title"
+msgstr ""
+
+#: functions/customizer_page.php:54
+msgid "Hide Page Share"
+msgstr ""
+
+#: functions/customizer_page.php:68
+msgid "Hide Page Author Name"
+msgstr ""
+
+#: functions/customizer_post.php:6
+msgid "Post Settings"
+msgstr ""
+
+#: functions/customizer_post.php:94
+msgid "Set default post layout"
+msgstr ""
+
+#: functions/customizer_post.php:100
+msgid "Post w/ Sidebar"
+msgstr ""
+
+#: functions/customizer_post.php:101
+msgid "Full Width Post"
+msgstr ""
+
+#: functions/customizer_post.php:112
+msgid "Featured Image (On Top of Post)"
+msgstr ""
+
+#: functions/customizer_post.php:118
+msgid "Display Featured Image"
+msgstr ""
+
+#: functions/customizer_post.php:119
+msgid "Hide Featured Image"
+msgstr ""
+
+#: functions/customizer_post.php:120
+msgid "Hide Featured Image only on single post pages"
+msgstr ""
+
+#: functions/customizer_post.php:132
+msgid "Hide Category"
+msgstr ""
+
+#: functions/customizer_post.php:146
+msgid "Hide Date"
+msgstr ""
+
+#: functions/customizer_post.php:159
+msgid "Hide Author Name"
+msgstr ""
+
+#: functions/customizer_post.php:172
+msgid "Hide Share Buttons"
+msgstr ""
+
+#: functions/customizer_post.php:185
+msgid "Hide Comment Link"
+msgstr ""
+
+#: functions/customizer_post.php:198
+msgid "Hide Tags"
+msgstr ""
+
+#: functions/customizer_post.php:211
+msgid "Hide Related Posts Box"
+msgstr ""
+
+#: functions/customizer_post.php:224
+msgid "Hide Post Pagination"
+msgstr ""
+
+#: functions/customizer_settings.php:19
+msgid "ZLOTUS: Theme Options"
+msgstr ""
+
+#: functions/customizer_social.php:6
+msgid "Social Media Settings"
+msgstr ""
+
+#: functions/customizer_social.php:124
+msgid "Facebook"
+msgstr ""
+
+#: functions/customizer_social.php:137
+msgid "Twitter"
+msgstr ""
+
+#: functions/customizer_social.php:150
+msgid "Instagram"
+msgstr ""
+
+#: functions/customizer_social.php:163
+msgid "Pinterest"
+msgstr ""
+
+#: functions/customizer_social.php:176
+msgid "Bloglovin"
+msgstr ""
+
+#: functions/customizer_social.php:189
+msgid "Google Plus"
+msgstr ""
+
+#: functions/customizer_social.php:202
+msgid "Tumblr"
+msgstr ""
+
+#: functions/customizer_social.php:215
+msgid "Youtube"
+msgstr ""
+
+#: functions/customizer_social.php:228
+msgid "Dribbble"
+msgstr ""
+
+#: functions/customizer_social.php:241
+msgid "Soundcloud"
+msgstr ""
+
+#: functions/customizer_social.php:254
+msgid "Vimeo"
+msgstr ""
+
+#: functions/customizer_social.php:267
+msgid "Linkedin (Use full URL to your Linkedin profile)"
+msgstr ""
+
+#: functions/customizer_social.php:280
+msgid "Snapchat"
+msgstr ""
+
+#: functions/customizer_social.php:293
+msgid "RSS Link"
+msgstr ""
+
+#: functions/customizer_woo.php:6
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: functions/customizer_woo.php:7
+msgid "WooCommerce theme related settings."
+msgstr ""
+
+#: functions/customizer_woo.php:43
+msgid "Hide Cart Icon in Header"
+msgstr ""
+
+#: functions/customizer_woo.php:57
+msgid "Shop Page Layout"
+msgstr ""
+
+#: functions/customizer_woo.php:63
+msgid "Sidebar Layout"
+msgstr ""
+
+#: functions/customizer_woo.php:64
+msgid "Full Width Layout"
+msgstr ""
+
+#: functions/customizer_woo.php:75
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/templates/post-pagination.php:15
+msgid "Previous Post"
+msgstr ""
+
+#: inc/templates/post-pagination.php:30
+msgid "Next Post"
+msgstr ""
+
+#: inc/templates/post-related.php:27
+msgid "You Might Also Like..."
+msgstr ""
+
+#: inc/widgets/about_widget.php:99 inc/widgets/facebook_widget.php:90
+#: inc/widgets/promo_widget.php:106 inc/widgets/social_widget.php:119
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/about_widget.php:105
+msgid "Image URL"
+msgstr ""
+
+#: inc/widgets/about_widget.php:107
+msgid ""
+"Enter the image URL you want to use. You can upload your image via Media > "
+"Add New"
+msgstr ""
+
+#: inc/widgets/about_widget.php:112
+msgid "Image Link"
+msgstr ""
+
+#: inc/widgets/about_widget.php:114
+msgid "Enter a link you want the about me image to go to."
+msgstr ""
+
+#: inc/widgets/about_widget.php:119
+msgid "About me text"
+msgstr ""
+
+#: inc/widgets/about_widget.php:125
+msgid "Autograph Image URL"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:96
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:103
+msgid "Show Faces"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:109
+msgid "Show Stream"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:115
+msgid "Show Page Cover Image"
+msgstr ""
+
+#: inc/widgets/post_widget.php:176
+msgid ""
+"Display specific posts using post IDs. This option will override the "
+"category option above."
+msgstr ""
+
+#: inc/widgets/promo_widget.php:112
+msgid "Background Image URL"
+msgstr ""
+
+#: inc/widgets/promo_widget.php:114
+msgid ""
+"Enter the background image URL you want to use. You can upload your "
+"background image via Media > Add New"
+msgstr ""
+
+#: inc/widgets/promo_widget.php:119
+msgid "Promo Text"
+msgstr ""
+
+#: inc/widgets/promo_widget.php:125
+msgid "Promo Link"
+msgstr ""
+
+#: inc/widgets/promo_widget.php:127
+msgid "Enter a link you want the promo box to go to."
+msgstr ""
+
+#: inc/widgets/promo_widget.php:132
+msgid "Promo Box Height"
+msgstr ""
+
+#: inc/widgets/promo_widget.php:138
+msgid "Promo Box Margin Bottom"
+msgstr ""
+
+#: inc/widgets/promo_widget.php:144
+msgid "Open link in a new tab?"
+msgstr ""
+
+#: inc/widgets/promo_widget.php:150
+msgid "Hide Separator Line Above Widget?"
+msgstr ""
+
+#: inc/widgets/social_widget.php:123
+msgid "Note: Set your social links in the Customizer"
+msgstr ""
+
+#: inc/widgets/social_widget.php:126
+msgid "Show Facebook"
+msgstr ""
+
+#: inc/widgets/social_widget.php:131
+msgid "Show Twitter"
+msgstr ""
+
+#: inc/widgets/social_widget.php:136
+msgid "Show Instagram"
+msgstr ""
+
+#: inc/widgets/social_widget.php:141
+msgid "Show Pinterest"
+msgstr ""
+
+#: inc/widgets/social_widget.php:146
+msgid "Show Bloglovin"
+msgstr ""
+
+#: inc/widgets/social_widget.php:151
+msgid "Show Google Plus"
+msgstr ""
+
+#: inc/widgets/social_widget.php:156
+msgid "Show Tumblr"
+msgstr ""
+
+#: inc/widgets/social_widget.php:161
+msgid "Show Youtube"
+msgstr ""
+
+#: inc/widgets/social_widget.php:166
+msgid "Show Dribbble"
+msgstr ""
+
+#: inc/widgets/social_widget.php:171
+msgid "Show Soundcloud"
+msgstr ""
+
+#: inc/widgets/social_widget.php:176
+msgid "Show Vimeo"
+msgstr ""
+
+#: inc/widgets/social_widget.php:181
+msgid "Show Linkedin"
+msgstr ""
+
+#: inc/widgets/social_widget.php:186
+msgid "Show Snapchat"
+msgstr ""
+
+#: inc/widgets/social_widget.php:191
+msgid "Show RSS"
+msgstr ""
+
+#: search.php:7
+msgid "Search results"
+msgstr ""
+
+#: searchform.php:2
+msgid "Type to Search..."
+msgstr ""
