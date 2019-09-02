@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.2.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-08-17 06:28:29+0000\n"
+"PO-Revision-Date: 2019-06-17 05:35:37+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -92,7 +92,7 @@ msgid "Improvements for Everyone"
 msgstr "適用於所有人的改進項目"
 
 #: wp-admin/about.php:154
-msgid "This administrator-focused update will let you safely fix or manage fatal errors without requiring a developer. It features better handling of the so-called “white screen of death”, and a way to enter recovery mode, which pauses error-causing plugins or themes."
+msgid "This administrator-focused update will let you safely fix or manage fatal errors without requiring developer time. It features better handling of the so-called “white screen of death”, and a way to enter recovery mode, which pauses error-causing plugins or themes."
 msgstr "這個針對網站管理的更新，能讓網站管理員在不需要開發者協助的狀況下，安全的修正或管理嚴重錯誤所造成的問題。這個功能的特色是能夠針對稱為「白色當機畫面」(WSoD，White Screen of Death) 有較佳的處理方式，並提供能夠暫停由外掛及佈景主題所引發的嚴重錯誤的 [復原模式]。"
 
 #: wp-admin/about.php:153
@@ -781,7 +781,7 @@ msgstr "已將常數 %s 及其設定值加入這個網站的組態檔案中，�
 
 #: wp-admin/includes/class-wp-site-health.php:1229
 msgid "Your site is set to log errors to a potentially public file."
-msgstr "這個網站會將錯誤訊息記錄在可能可公開存取的檔案中"
+msgstr "這個網站會將錯誤訊息記錄在可能可公開存取的檔案中。"
 
 #: wp-admin/includes/class-wp-site-health.php:1214
 msgid "Debug mode is often enabled to gather more details about an error or site failure, but may contain sensitive information which should not be available on a publicly available website."
@@ -953,7 +953,7 @@ msgstr "佈景主題控制了網站的外觀與風格。持續為網站更新佈
 
 #: wp-admin/includes/class-wp-site-health.php:412
 msgid "Your themes are up to date"
-msgstr "這個網站的全部佈景主題均為最新版本"
+msgstr "這個網站的全部佈景主題均為最新版本。"
 
 #. translators: %d: The number of active plugins.
 #: wp-admin/includes/class-wp-site-health.php:357
@@ -977,7 +977,7 @@ msgstr "外掛能擴充這個網站如聯絡表單、電子商務等功能，這
 
 #: wp-admin/includes/class-wp-site-health.php:280
 msgid "Your plugins are up to date"
-msgstr "這個網站的全部外掛均為最新版本"
+msgstr "這個網站的全部外掛均為最新版本。"
 
 #: wp-admin/includes/class-wp-site-health.php:260
 msgid "You are currently running the latest version of WordPress available, keep it up!"
@@ -1025,11 +1025,11 @@ msgstr "網站資訊已複製至剪貼簿。"
 #. translators: %s: The percentage score for the tests.
 #: wp-admin/js/site-health.js:152
 msgid "All site health tests have finished running. Your site scored %s, and the results are now available on the page."
-msgstr "網站狀態測試已全部完成。這個網站的合格率為 %s，並已將結果顯示於這個頁面。"
+msgstr "網站狀態測試已全部完成。這個網站的評分為 %s，並已將結果顯示於這個頁面。"
 
 #: wp-admin/js/site-health.js:274
 msgid "All site health tests have finished running."
-msgstr "網站狀態測試已全部完成。"
+msgstr "全部網站狀態測試均已完成執行。"
 
 #: wp-admin/js/site-health.js:247
 msgid "Please wait..."
@@ -2327,7 +2327,7 @@ msgstr "Cookie"
 #. translators: default privacy policy text.
 #: wp-admin/includes/misc.php:1832
 msgid "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."
-msgstr "這個網站會根據使用者的電子郵件地址建立匿名化字串 (亦稱為<strong>雜湊值</strong>)，並提供給 Gravatar 個人頭像服務以查詢這個使用者是否為這項服務的使用者。如需瞭解 Gravatar 個人頭像服務的隱私權政策，請造訪 <a title=\"Automattic 的隱私權政策\" href=\"https://automattic.com/privacy/\" target=\"_blank\">https://automattic.com/privacy/</a>。網站管理員核准使用者發佈的留言後，使用者的個人資料圖片便會在留言內容中公開顯示。"
+msgstr "這個網站會根據使用者的電子郵件地址建立匿名字串  (亦稱為<strong>雜湊值</strong>)，並提供給 Gravatar 個人頭像服務以查詢這個使用者是否為這項服務的使用者。如需瞭解 Gravatar 個人頭像服務的隱私權政策，請造訪 <a title=\"Automattic 的隱私權政策\" href=\"https://automattic.com/privacy/\" target=\"_blank\">https://automattic.com/privacy/</a>。網站管理員核准使用者發佈的留言後，使用者的個人資料圖片便會在留言內容中公開顯示。"
 
 #. translators: default privacy policy text.
 #: wp-admin/includes/misc.php:1830
@@ -6077,7 +6077,7 @@ msgstr "網站概況"
 
 #: wp-admin/options-reading.php:37
 msgid "When this setting is in effect, a reminder is shown in the At a Glance box of the Dashboard that says, &#8220;Search Engines Discouraged,&#8221; to remind you that your site is not being crawled."
-msgstr "啟用這項設定後，控制台上的 [網站概況] 區塊將會出現 [已阻擋搜尋引擎進行索引] 提示訊息，以提醒網站管理員<strong>搜尋引擎不會檢索這個網站</strong>。"
+msgstr "啟用這項設定後，控制台上的 [網站概況] 區塊將會出現 [已阻擋搜尋引擎進行索引] 提示訊息，以提醒網站管理員<strong>搜尋引擎不會耙梳這個網站</strong>。"
 
 #: wp-admin/includes/theme.php:275
 msgid "Accessibility Ready"
@@ -7139,7 +7139,7 @@ msgstr "網站管理員也可以點擊 [選取色彩] 按鈕選取背景色彩�
 
 #: wp-admin/options-reading.php:36
 msgid "You can choose whether or not your site will be crawled by robots, ping services, and spiders. If you want those services to ignore your site, click the checkbox next to &#8220;Discourage search engines from indexing this site&#8221; and click the Save Changes button at the bottom of the screen. Note that your privacy is not complete; your site is still visible on the web."
-msgstr "網站管理員可以決定網站是否要開放搜尋機器人/蜘蛛檢索網站內容及內容更新通知服務。如果需要這些服務忽略這個網站，請啟用 <strong>[阻擋搜尋引擎索引這個網站]</strong> 這項設定，然後點擊畫面最下方的 [儲存設定] 按鈕。請注意，這項網站隱私設定並不會隱藏網站內容，這個網站仍會在網路上公開顯示網站內容。"
+msgstr "網站管理員可以決定網站是否要開放搜尋機器人/蜘蛛耙梳網站內容及內容更新通知服務。如果需要這些服務忽略這個網站，請啟用 <strong>[阻擋搜尋引擎索引這個網站]</strong> 這項設定，然後點擊畫面最下方的 [儲存設定] 按鈕。請注意，這項網站隱私設定並不會隱藏網站內容，這個網站仍會在網路上公開顯示網站內容。"
 
 #: wp-admin/includes/dashboard.php:1736
 msgid "Learn more about getting started"

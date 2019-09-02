@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.2.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-06-27 13:29:26+0000\n"
+"PO-Revision-Date: 2019-06-14 14:25:30+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -7936,7 +7936,7 @@ msgstr "固定寬度版面配置"
 
 #: wp-includes/class-wp-theme.php:902
 msgid "Dark"
-msgstr "深色"
+msgstr "暗色"
 
 #: wp-includes/class-wp-theme.php:899
 msgid "Tan"
@@ -10886,7 +10886,7 @@ msgstr "新增替代來源以提升 HTML 5 的播放相容性:"
 
 #: wp-includes/user.php:2190
 msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
-msgstr "提示: 建議密碼應該至少要有 12 個字元，並在密碼中同時使用大小寫字母、數字及 <code>! \" ? $ % ^ &amp; )</code> 等特殊符號，便能讓密碼更安全。"
+msgstr "提示: 建議密碼應該至少要有 12 個字元，並在密碼中同時使用大小寫字母、數字及 <code>! \" ? $ % ^ &amp; )</code> 等特殊符號 ，便能讓密碼更安全。"
 
 #: wp-includes/wp-db.php:1303
 msgid "The query argument of %s must have a placeholder."
